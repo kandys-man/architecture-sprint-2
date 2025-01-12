@@ -6,5 +6,6 @@
  - mongo-sharding-repl
  - sharding-repl-cache
 
-Итоговая схема  в файле draw.io.
+Итоговая схема  в файле draw.io:
 
+![Схема](drawio.png)
